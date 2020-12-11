@@ -1,7 +1,7 @@
-# 16384
+# 19683
 
-[Play 2048](http://gabrielecirulli.github.io/2048/)
-[Play 16384](http://annimon.github.io/16384/)
+[Play 2187](http://ajwesson.github.io/2187/)
+[Play 19683](https://thereal768.github.io/19683/)
 
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
